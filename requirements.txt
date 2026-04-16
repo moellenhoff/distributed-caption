@@ -8,3 +8,4 @@ accelerate
 einops
 pyarrow
 pillow
+rumps          # macOS menu bar app (workers only)

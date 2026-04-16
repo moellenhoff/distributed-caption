@@ -85,14 +85,16 @@ echo "Installing Python dependencies …"
     requests \
     tqdm \
     pyarrow \
-    pillow
+    pillow \
+    rumps
 
 echo "Dependencies installed."
 
-# ── 3. Copy worker script ─────────────────────────────────────────────────────
+# ── 3. Copy worker scripts ────────────────────────────────────────────────────
 
-cp "$(dirname "$0")/worker.py" "$WORKER_DIR/worker.py"
-echo "Worker script copied to $WORKER_DIR/worker.py"
+cp "$(dirname "$0")/worker.py"      "$WORKER_DIR/worker.py"
+cp "$(dirname "$0")/menubar_app.py" "$WORKER_DIR/menubar_app.py"
+echo "Worker scripts copied to $WORKER_DIR/"
 
 # ── 4. Pre-download Molmo model (optional but recommended) ───────────────────
 
@@ -162,13 +164,62 @@ cat > "$PLIST_PATH" <<PLIST
 </plist>
 PLIST
 
-# Load (or reload) the LaunchAgent
+# Load (or reload) the worker LaunchAgent
 launchctl unload "$PLIST_PATH" 2>/dev/null || true
 launchctl load   "$PLIST_PATH"
+
+# ── 6. Menu Bar App LaunchAgent ───────────────────────────────────────────────
+
+MENUBAR_PLIST_LABEL="com.pd.caption-menubar"
+MENUBAR_PLIST_PATH="$LAUNCH_AGENTS_DIR/$MENUBAR_PLIST_LABEL.plist"
+
+cat > "$MENUBAR_PLIST_PATH" <<PLIST
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+  "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>$MENUBAR_PLIST_LABEL</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>$PYTHON</string>
+        <string>$WORKER_DIR/menubar_app.py</string>
+        <string>--coordinator</string>
+        <string>$COORDINATOR</string>
+        <string>--worker-name</string>
+        <string>$WORKER_NAME</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>$WORKER_DIR</string>
+
+    <key>KeepAlive</key>
+    <true/>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>$LOG_DIR/menubar.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>$LOG_DIR/menubar.log</string>
+
+    <key>ThrottleInterval</key>
+    <integer>10</integer>
+</dict>
+</plist>
+PLIST
+
+launchctl unload "$MENUBAR_PLIST_PATH" 2>/dev/null || true
+launchctl load   "$MENUBAR_PLIST_PATH"
 
 echo ""
 echo "=== Setup complete ==="
 echo "Worker '$WORKER_NAME' will start automatically on login."
+echo "Menu bar icon appears in the top-right corner of the screen."
 echo "Coordinator: $COORDINATOR"
 echo "Logs: $LOG_DIR/worker.log"
 echo ""
