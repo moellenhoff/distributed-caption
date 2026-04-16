@@ -25,6 +25,8 @@ import tempfile
 import time
 from pathlib import Path
 
+import traceback
+
 import requests
 import torch
 from PIL import Image
@@ -204,7 +206,7 @@ def run_worker(coordinator: str, worker_name: str) -> None:
                 try:
                     caption = _caption_image(img, model, processor, device, dtype)
                 except Exception as e:
-                    log.warning("Caption error for %s: %s", uid, e)
+                    log.warning("Caption error for %s: %s\n%s", uid, e, traceback.format_exc())
                     caption = orig_caption   # fall back to original
 
                 lines.append(json.dumps({"key": uid, "caption": caption}))
