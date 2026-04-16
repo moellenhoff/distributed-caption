@@ -128,10 +128,19 @@ Start-ScheduledTask -TaskName CaptionWorker
 Get-ScheduledTask   -TaskName CaptionWorker | Select-Object State
 ```
 
-#### Notes for Windows
+A **system tray icon** (bottom-right taskbar) shows the worker status and
+allows toggling with a right-click:
 
-- **No menu bar app** on Windows (rumps is macOS-only). Monitor via log or
-  `status.py` on the coordinator.
+| Icon | Meaning |
+|---|---|
+| 🔵 Blue circle | Working — captioning a shard |
+| ⚪ Grey circle | Idle — waiting for next job |
+| 🔴 Red circle | Stopped — worker disabled |
+
+Right-click menu: **Enable / Disable worker**, current shard, queue progress,
+open log file, quit tray app.
+
+#### Notes for Windows
 - **CUDA version**: the script installs PyTorch for CUDA 12.1. If the machine
   has an older driver, change `cu121` to `cu118` in the script.
 - **tensorflow**: installed as `tensorflow` (CPU build, ~600 MB). Unlike

@@ -81,15 +81,17 @@ Write-Host "`nInstalling Python dependencies..." -ForegroundColor Yellow
     tqdm `
     pyarrow `
     pillow `
+    pystray `
     tensorflow
 
 Write-Host "Dependencies installed."
 
-# ── 4. Copy worker script ─────────────────────────────────────────────────────
+# ── 4. Copy worker scripts ────────────────────────────────────────────────────
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
-Copy-Item "$scriptDir\worker.py" "$WorkerDir\worker.py" -Force
-Write-Host "worker.py copied to $WorkerDir\"
+Copy-Item "$scriptDir\worker.py"   "$WorkerDir\worker.py"   -Force
+Copy-Item "$scriptDir\tray_app.py" "$WorkerDir\tray_app.py" -Force
+Write-Host "worker.py + tray_app.py copied to $WorkerDir\"
 
 # ── 5. Pre-download Molmo model ───────────────────────────────────────────────
 
@@ -139,12 +141,42 @@ Register-ScheduledTask `
     -Principal $principal `
     -Force | Out-Null
 
-# Start immediately
+# Start worker immediately
 Start-ScheduledTask -TaskName $TaskName
+
+# ── 7. Tray App Task Scheduler (autostart at login) ──────────────────────────
+
+$TrayTaskName = "CaptionWorkerTray"
+
+Write-Host "Registering tray app '$TrayTaskName'..." -ForegroundColor Yellow
+
+Unregister-ScheduledTask -TaskName $TrayTaskName -Confirm:$false -ErrorAction SilentlyContinue
+
+$trayAction = New-ScheduledTaskAction `
+    -Execute $PythonExe `
+    -Argument "$WorkerDir\tray_app.py --coordinator $Coordinator --worker-name $WorkerName" `
+    -WorkingDirectory $WorkerDir
+
+$traySettings = New-ScheduledTaskSettingsSet `
+    -RestartCount 999 `
+    -RestartInterval (New-TimeSpan -Seconds 10) `
+    -ExecutionTimeLimit ([TimeSpan]::Zero) `
+    -MultipleInstances IgnoreNew
+
+Register-ScheduledTask `
+    -TaskName  $TrayTaskName `
+    -Action    $trayAction `
+    -Trigger   $trigger `
+    -Settings  $traySettings `
+    -Principal $principal `
+    -Force | Out-Null
+
+# Start tray app immediately
+Start-ScheduledTask -TaskName $TrayTaskName
 
 Write-Host ""
 Write-Host "=== Setup complete ===" -ForegroundColor Green
-Write-Host "Worker '$WorkerName' is running and will restart automatically at login."
+Write-Host "Worker '$WorkerName' is running. Tray icon appears in the system tray (bottom right)."
 Write-Host "Coordinator : $Coordinator"
 Write-Host "Log file    : $logFile"
 Write-Host ""
