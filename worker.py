@@ -29,6 +29,7 @@ import requests
 import torch
 from PIL import Image
 from tqdm import tqdm
+from transformers import AutoModelForCausalLM, AutoProcessor, GenerationConfig
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("worker")
@@ -53,8 +54,6 @@ def _best_device() -> tuple[str, torch.dtype]:
 # ── Molmo model ──────────────────────────────────────────────────────────────
 
 def _load_model(device: str, dtype: torch.dtype):
-    from transformers import AutoModelForCausalLM, AutoProcessor, GenerationConfig
-
     log.info("Loading Molmo 7B on %s (%s) …", device, dtype)
     cache_dir = os.environ.get("HF_HOME", None)
 
