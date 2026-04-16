@@ -54,7 +54,7 @@ python status.py --coordinator http://localhost:5000
 python status.py --coordinator http://localhost:5000 --watch
 ```
 
-### 2 — Workers (run once per Mac Studio)
+### 2a — Workers (macOS / Mac Studio)
 
 On each Mac, run the installer — it sets up the conda environment, downloads
 the Molmo model, and installs a **LaunchAgent** that starts the worker
@@ -75,7 +75,7 @@ ssh administrator@10.0.0.x \
 
 The worker starts immediately and will restart automatically after crashes or reboots.
 
-#### Worker commands
+#### macOS worker commands
 
 ```bash
 # Watch live log
@@ -87,6 +87,59 @@ launchctl unload ~/Library/LaunchAgents/com.pd.caption-worker.plist
 # Start worker
 launchctl load   ~/Library/LaunchAgents/com.pd.caption-worker.plist
 ```
+
+---
+
+### 2b — Workers (Windows 11 / RTX GPU)
+
+On the Windows machine, open **PowerShell as Administrator**, clone the repo,
+then run the installer:
+
+```powershell
+# Clone repo (once)
+git clone https://github.com/moellenhoff/distributed-caption.git
+cd distributed-caption
+
+# Run installer
+.\install_worker.ps1 -Coordinator http://10.0.0.1:5000 -WorkerName win-4090
+```
+
+The script:
+- Installs **Miniforge3** (if not present)
+- Creates a `caption-worker` conda environment (Python 3.11)
+- Installs **PyTorch with CUDA 12.1** + all dependencies
+- Pre-downloads Molmo-7B-D-0924 weights (~14 GB)
+- Registers a **Task Scheduler** job that starts the worker at login and
+  restarts it automatically on crash
+
+#### Windows worker commands
+
+```powershell
+# Watch live log
+Get-Content $env:USERPROFILE\caption-worker\logs\worker.log -Wait
+
+# Stop worker
+Stop-ScheduledTask  -TaskName CaptionWorker
+
+# Start worker
+Start-ScheduledTask -TaskName CaptionWorker
+
+# Check status
+Get-ScheduledTask   -TaskName CaptionWorker | Select-Object State
+```
+
+#### Notes for Windows
+
+- **No menu bar app** on Windows (rumps is macOS-only). Monitor via log or
+  `status.py` on the coordinator.
+- **CUDA version**: the script installs PyTorch for CUDA 12.1. If the machine
+  has an older driver, change `cu121` to `cu118` in the script.
+- **tensorflow**: installed as `tensorflow` (CPU build, ~600 MB). Unlike
+  macOS Apple Silicon, there is no 32 GB tensorflow-macos download on Windows.
+- If the execution policy blocks the script, run first:
+  ```powershell
+  Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
+  ```
 
 ---
 
