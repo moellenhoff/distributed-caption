@@ -84,19 +84,20 @@ def _caption_image(
     dtype: torch.dtype,
 ) -> str:
     inputs = processor.process(images=[img], text=CAPTION_PROMPT)
-    inputs = {k: v.to(device) for k, v in inputs.items()}
-    if dtype != torch.float32:
-        inputs = {k: (v.to(dtype) if v.is_floating_point() else v)
-                  for k, v in inputs.items()}
-
+    inputs = {
+        k: (
+            (v.to(device, dtype=dtype) if v.is_floating_point() else v.to(device))
+            .unsqueeze(0)
+        ) if isinstance(v, torch.Tensor) else v
+        for k, v in inputs.items()
+    }
     with torch.no_grad():
         output = model.generate_from_batch(
             inputs,
-            GenerationConfig(max_new_tokens=200, stop_strings="<|endoftext|>"),
+            GenerationConfig(max_new_tokens=300, stop_strings="<|endoftext|>"),
             tokenizer=processor.tokenizer,
         )
-    generated = output[0, inputs["input_ids"].size(1):]
-    return processor.tokenizer.decode(generated, skip_special_tokens=True).strip()
+    return processor.tokenizer.decode(output[0], skip_special_tokens=True).strip()
 
 
 # ── Parquet streaming ─────────────────────────────────────────────────────────
