@@ -1,0 +1,19 @@
+# Example coordinator configuration
+# Pass these as CLI args: python coordinator.py --parquet-dir ... --output-dir ...
+
+# Directory containing .parquet files (searched recursively)
+parquet_dir: /data/raw/pd12m
+
+# Where to write JSONL caption files (one per parquet)
+output_dir: /data/captions/pd12m
+
+# Coordinator listen address
+host: 0.0.0.0
+port: 5000
+
+# --- Worker setup ---
+# Run on each Mac Studio (once):
+#
+#   bash install_worker.sh \
+#       --coordinator http://<this-machine-ip>:5000 \
+#       --worker-name mac-studio-1

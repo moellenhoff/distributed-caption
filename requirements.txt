@@ -1,0 +1,10 @@
+flask>=3.0
+requests
+tqdm
+torch
+torchvision
+transformers>=4.40.0
+accelerate
+einops
+pyarrow
+pillow
