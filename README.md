@@ -158,7 +158,28 @@ python coordinator.py \
 
 ---
 
+## Bekannte Probleme
+
+### tensorflow fehlt beim ersten Install
+
+Molmo benötigt `tensorflow` zur Initialisierung des Processors. Falls der Install abbricht mit:
+
+```
+ImportError: This modeling file requires the following packages that were not found: tensorflow
+```
+
+Manuell nachinstallieren und Install-Script nochmal ausführen:
+
+```bash
+~/miniforge3/envs/caption-worker/bin/pip install tensorflow
+bash install_worker.sh --coordinator http://... --worker-name ...
+```
+
+**Hinweis:** Auf Apple Silicon lädt tensorflow ~32 GB — das ist einmalig und normal.
+
+---
+
 ## Requirements
 
 **Coordinator:** Python 3.10+, Flask, requests  
-**Workers:** Python 3.11, PyTorch (MPS/CUDA/CPU), Transformers ≥ 4.40, ~14 GB disk
+**Workers:** Python 3.11, PyTorch (MPS/CUDA/CPU), Transformers ≥ 4.40, tensorflow, ~50 GB disk (14 GB Modell + 32 GB tensorflow)
