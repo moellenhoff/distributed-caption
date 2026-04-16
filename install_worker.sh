@@ -79,7 +79,7 @@ fi
 echo "Installing Python dependencies …"
 "$MINIFORGE_PATH/envs/$CONDA_ENV/bin/pip" install --quiet \
     torch torchvision \
-    transformers>=4.40.0 \
+    "transformers>=4.40.0,<4.46.0" \
     accelerate \
     einops \
     requests \
@@ -103,15 +103,11 @@ echo "Pre-downloading Molmo-7B-D-0924 model weights (~14 GB) …"
 echo "(This may take a while on first run. Skip with Ctrl+C — worker will download on first task.)"
 
 "$PYTHON" - <<'EOF'
-import os
-from transformers import AutoProcessor, AutoModelForCausalLM
-MODEL_ID = "allenai/Molmo-7B-D-0924"
-print("Downloading processor …")
-AutoProcessor.from_pretrained(MODEL_ID, trust_remote_code=True)
-print("Downloading model weights …")
-AutoModelForCausalLM.from_pretrained(MODEL_ID, trust_remote_code=True,
-                                     torch_dtype="auto")
-print("Model cached.")
+# Download model files only — no instantiation to avoid version-specific errors.
+from huggingface_hub import snapshot_download
+print("Downloading Molmo-7B-D-0924 files …")
+snapshot_download("allenai/Molmo-7B-D-0924")
+print("Model files cached.")
 EOF
 
 # ── 5. LaunchAgent (autostart on login) ──────────────────────────────────────

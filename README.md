@@ -160,6 +160,18 @@ python coordinator.py \
 
 ## Bekannte Probleme
 
+### AttributeError: all_tied_weights_keys (transformers zu neu)
+
+Molmo-7B-D-0924 ist nicht kompatibel mit transformers ≥ 4.46. Fix:
+
+```bash
+~/miniforge3/envs/caption-worker/bin/pip install "transformers>=4.40.0,<4.46.0"
+```
+
+Das install_worker.sh pinnt die Version automatisch — bei manueller Installation darauf achten.
+
+---
+
 ### tensorflow fehlt beim ersten Install
 
 Molmo benötigt `tensorflow` zur Initialisierung des Processors. Falls der Install abbricht mit:

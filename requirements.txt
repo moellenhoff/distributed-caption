@@ -3,7 +3,7 @@ requests
 tqdm
 torch
 torchvision
-transformers>=4.40.0
+transformers>=4.40.0,<4.46.0
 accelerate
 einops
 pyarrow
