@@ -48,7 +48,10 @@ python coordinator.py \
 
 Check progress at any time:
 ```bash
-curl http://localhost:5000/status | python -m json.tool
+python status.py --coordinator http://localhost:5000
+
+# Live-Ansicht (alle 10 s)
+python status.py --coordinator http://localhost:5000 --watch
 ```
 
 ### 2 — Workers (run once per Mac Studio)
@@ -90,18 +93,28 @@ launchctl load   ~/Library/LaunchAgents/com.pd.caption-worker.plist
 ## Monitoring
 
 ```bash
-# All workers + queue status
-curl http://10.0.0.1:5000/status | python -m json.tool
+# Einmalige Anzeige
+python status.py --coordinator http://10.0.0.1:5000
 
-# Example output:
-# {
-#   "shards":  {"queued": 312, "in_progress": 5, "done": 83},
-#   "total":   400,
-#   "workers": {
-#     "mac-studio-1": {"last_seen": 1713300000, "current_shard": "part0/shard_042.parquet"},
-#     "mac-studio-2": {"last_seen": 1713300010, "current_shard": "part0/shard_107.parquet"}
-#   }
-# }
+# Live-Ansicht (alle 10 s)
+python status.py --coordinator http://10.0.0.1:5000 --watch
+```
+
+Beispielausgabe:
+```
+────────────────────────────────────────────────
+  Caption Queue  —  http://10.0.0.1:5000
+────────────────────────────────────────────────
+  [████████░░░░░░░░░░░░░░░░░░░░░░]  20.8%
+  Done:           83 / 400
+  In progress:     5
+  Queued:        312
+
+  Worker                Status    Current shard                   Last seen
+  mac-studio-1          ✓ online  shard_042.parquet               4s ago
+  mac-studio-2          ✓ online  shard_107.parquet               7s ago
+  mac-studio-3          ✗ offline —                               23m ago
+────────────────────────────────────────────────
 ```
 
 ---
