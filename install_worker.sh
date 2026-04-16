@@ -86,7 +86,8 @@ echo "Installing Python dependencies …"
     tqdm \
     pyarrow \
     pillow \
-    rumps
+    rumps \
+    tensorflow
 
 echo "Dependencies installed."
 
