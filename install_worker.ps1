@@ -124,7 +124,7 @@ $trigger  = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
 
 $settings = New-ScheduledTaskSettingsSet `
     -RestartCount 999 `
-    -RestartInterval (New-TimeSpan -Seconds 30) `
+    -RestartInterval (New-TimeSpan -Minutes 1) `
     -ExecutionTimeLimit ([TimeSpan]::Zero) `
     -MultipleInstances IgnoreNew
 
@@ -159,7 +159,7 @@ $trayAction = New-ScheduledTaskAction `
 
 $traySettings = New-ScheduledTaskSettingsSet `
     -RestartCount 999 `
-    -RestartInterval (New-TimeSpan -Seconds 10) `
+    -RestartInterval (New-TimeSpan -Minutes 1) `
     -ExecutionTimeLimit ([TimeSpan]::Zero) `
     -MultipleInstances IgnoreNew
 
