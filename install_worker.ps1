@@ -1,4 +1,4 @@
-# install_worker.ps1 — One-time setup on Windows (RTX 4090 / CUDA)
+# install_worker.ps1 - One-time setup on Windows (RTX 4090 / CUDA)
 #
 # Installs Miniforge3, creates conda env, downloads Molmo weights,
 # registers a Windows Task Scheduler job for autostart at login.
@@ -33,7 +33,7 @@ Write-Host "=================================================="
 New-Item -ItemType Directory -Force -Path $WorkerDir | Out-Null
 New-Item -ItemType Directory -Force -Path "$WorkerDir\logs" | Out-Null
 
-# ── 1. Miniforge3 ─────────────────────────────────────────────────────────────
+# ---- 1. Miniforge3 ----
 
 $MiniforgePath = "$env:USERPROFILE\miniforge3"
 $CondaBin      = "$MiniforgePath\condabin\conda.bat"
@@ -53,7 +53,7 @@ if (-Not (Test-Path $MiniforgePath)) {
     Write-Host "Miniforge3 already installed."
 }
 
-# ── 2. Conda environment ──────────────────────────────────────────────────────
+# ---- 2. Conda environment ----
 
 $envExists = & "$MiniforgePath\Scripts\conda.exe" env list 2>&1 | Select-String "^$CondaEnv "
 if (-Not $envExists) {
@@ -63,7 +63,7 @@ if (-Not $envExists) {
     Write-Host "Conda env '$CondaEnv' already exists."
 }
 
-# ── 3. Python dependencies ────────────────────────────────────────────────────
+# ---- 3. Python dependencies ----
 
 Write-Host "`nInstalling Python dependencies..." -ForegroundColor Yellow
 
@@ -86,17 +86,17 @@ Write-Host "`nInstalling Python dependencies..." -ForegroundColor Yellow
 
 Write-Host "Dependencies installed."
 
-# ── 4. Copy worker scripts ────────────────────────────────────────────────────
+# ---- 4. Copy worker scripts ----
 
 $scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 Copy-Item "$scriptDir\worker.py"   "$WorkerDir\worker.py"   -Force
 Copy-Item "$scriptDir\tray_app.py" "$WorkerDir\tray_app.py" -Force
 Write-Host "worker.py + tray_app.py copied to $WorkerDir\"
 
-# ── 5. Pre-download Molmo model ───────────────────────────────────────────────
+# ---- 5. Pre-download Molmo model ----
 
 Write-Host "`nPre-downloading Molmo-7B-D-0924 model weights (~14 GB)..." -ForegroundColor Yellow
-Write-Host "(Press Ctrl+C to skip — worker will download on first task.)"
+Write-Host "(Press Ctrl+C to skip - worker will download on first task.)"
 
 $downloadScript = @"
 from huggingface_hub import snapshot_download
@@ -106,7 +106,7 @@ print('Model files cached.')
 "@
 $downloadScript | & $PythonExe -
 
-# ── 6. Task Scheduler (autostart at login) ────────────────────────────────────
+# ---- 6. Task Scheduler (autostart at login) ----
 
 Write-Host "`nRegistering Windows Task Scheduler job '$TaskName'..." -ForegroundColor Yellow
 
@@ -144,7 +144,7 @@ Register-ScheduledTask `
 # Start worker immediately
 Start-ScheduledTask -TaskName $TaskName
 
-# ── 7. Tray App Task Scheduler (autostart at login) ──────────────────────────
+# ---- 7. Tray App Task Scheduler (autostart at login) ----
 
 $TrayTaskName = "CaptionWorkerTray"
 
