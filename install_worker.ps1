@@ -1,1 +1,188 @@
-⌠楮獴慬江睯牫敲⹰猱⃢肔⁏湥⵴業攠獥瑵瀠潮⁗楮摯睳 剔堠㐰㤰 ⁃啄䄩ਣਣ⁉湳瑡汬猠䵩湩景牧攳Ⱐ捲敡瑥猠捯湤愠敮瘬⁤潷湬潡摳⁍潬浯⁷敩杨瑳Ⰺ⌠牥杩獴敲猠愠坩湤潷猠呡獫⁓捨敤畬敲⁪潢⁦潲⁡畴潳瑡牴⁡琠汯杩渮ਣਣ⁕獡来 牵渠楮⁐潷敲卨敬氠慳⁁摭楮楳瑲慴潲⤺ਣ†‮屩湳瑡汬彷潲步爮灳ㄠⵃ潯牤楮慴潲⁨瑴瀺⼯㄰⸰⸰⸱㨵〰〠ⵗ潲步牎慭攠睩渭㐰㤰ਣਣ⁏爠睩瑨⁡⁣畳瑯洠睯牫敲⁤楲㨊⌠†⹜楮獴慬江睯牫敲⹰猱‭䍯潲摩湡瑯爠桴瑰㨯⼱〮〮〮ㄺ㔰〰‭坯牫敲乡浥⁷楮ⴴ〹〠ⵗ潲步牄楲⁃㩜捡灴楯渭睯牫敲ਊ灡牡洨ਠ†⁛偡牡浥瑥爨䵡湤慴潲礽⑴牵攩崊††孳瑲楮杝⑃潯牤楮慴潲Ⰺਠ†⁛獴物湧崤坯牫敲乡浥‽․敮瘺䍏䵐啔䕒乁䵅Ⰺਠ†⁛獴物湧崤坯牫敲䑩爠㴠∤敮瘺啓䕒偒但䥌䕜捡灴楯渭睯牫敲∬ਊ††孳瑲楮杝⑃潮摡䕮瘠㴠≣慰瑩潮⵷潲步爢Ⰺਠ†⁛獴物湧崤呡獫乡浥‽•䍡灴楯湗潲步爢਩ਊ⑅牲潲䅣瑩潮偲敦敲敮捥‽•却潰∊੗物瑥ⵈ潳琠∽㴽⁄楳瑲楢畴敤⁃慰瑩潮⁗潲步爠卥瑵瀠⡗楮摯睳⤠㴽㴢‭䙯牥杲潵湤䍯汯爠䍹慮੗物瑥ⵈ潳琠≃潯牤楮慴潲›․䍯潲摩湡瑯爢੗物瑥ⵈ潳琠≗潲步爠湡浥›․坯牫敲乡浥∊坲楴攭䡯獴•坯牫敲⁤楲†㨠⑗潲步牄楲∊坲楴攭䡯獴•㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽㴽∊੎敷ⵉ瑥洠ⵉ瑥浔祰攠䑩牥捴潲礠ⵆ潲捥‭偡瑨․坯牫敲䑩爠簠併琭乵汬੎敷ⵉ瑥洠ⵉ瑥浔祰攠䑩牥捴潲礠ⵆ潲捥‭偡瑨•⑗潲步牄楲屬潧猢⁼⁏畴ⵎ畬氊ਣ⃢钀耠ㄮ⁍楮楦潲来㌠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀耊ਤ䵩湩景牧敐慴栠㴠∤敮瘺啓䕒偒但䥌䕜浩湩景牧攳∊⑃潮摡䉩渠††‽•⑍楮楦潲来偡瑨屣潮摡扩湜捯湤愮扡琢ਤ偹瑨潮䕸攠††㴠∤䵩湩景牧敐慴桜敮癳尤䍯湤慅湶屰祴桯渮數攢ਊ楦 ⵎ潴 呥獴ⵐ慴栠⑍楮楦潲来偡瑨⤩⁻ਠ†⁗物瑥ⵈ潳琠≠湉湳瑡汬楮朠䵩湩景牧攳⸮⸢‭䙯牥杲潵湤䍯汯爠奥汬潷ਠ†․楮獴慬汥爠㴠∤敮瘺呅䵐屍楮楦潲来㌭坩湤潷猭砸㙟㘴⹥硥∊††䥮癯步ⵗ敢剥煵敳琠怊††††ⵕ物•桴瑰猺⼯杩瑨畢⹣潭⽣潮摡ⵦ潲来⽭楮楦潲来⽲敬敡獥猯污瑥獴⽤潷湬潡搯䵩湩景牧攳ⵗ楮摯睳⵸㠶弶㐮數攢⁠ਠ†††‭併瑆楬攠⑩湳瑡汬敲ਠ†⁓瑡牴ⵐ牯捥獳‭䙩汥偡瑨․楮獴慬汥爠怊††††ⵁ牧畭敮瑌楳琠∯匠⽉湳瑡汬慴楯湔祰攽䩵獴䵥 剥杩獴敲偹瑨潮㴰 䐽⑍楮楦潲来偡瑨∠怊††††ⵗ慩琠ⵎ潎敷坩湤潷ਠ†⁒敭潶攭䥴敭․楮獴慬汥爊素敬獥⁻ਠ†⁗物瑥ⵈ潳琠≍楮楦潲来㌠慬牥慤礠楮獴慬汥搮∊紊ਣ⃢钀耠㈮⁃潮摡⁥湶楲潮浥湴⃢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀耊ਤ敮癅硩獴猠㴠☠∤䵩湩景牧敐慴桜卣物灴獜捯湤愮數攢⁥湶⁬楳琠㈾☱⁼⁓敬散琭却物湧•帤䍯湤慅湶•੩映⠭乯琠⑥湶䕸楳瑳⤠笊††坲楴攭䡯獴•恮䍲敡瑩湧⁣潮摡⁥湶‧⑃潮摡䕮瘧 偹瑨潮″⸱ㄩ⸮⸢‭䙯牥杲潵湤䍯汯爠奥汬潷ਠ†…•⑍楮楦潲来偡瑨屓捲楰瑳屣潮摡⹥硥∠捲敡瑥‭渠⑃潮摡䕮瘠灹瑨潮㴳⸱ㄠ⵹੽⁥汳攠笊††坲楴攭䡯獴•䍯湤愠敮瘠✤䍯湤慅湶✠慬牥慤礠數楳瑳⸢੽ਊ⌠胢钀″⸠偹瑨潮⁤数敮摥湣楥猠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀ਊ坲楴攭䡯獴•恮䥮獴慬汩湧⁐祴桯渠摥灥湤敮捩敳⸮⸢‭䙯牥杲潵湤䍯汯爠奥汬潷ਊ⌠偹呯牣栠睩瑨⁃啄䄠ㄲ⸱ 剔堠㐰㤰⁮敥摳⁃啄䄠㸽‱ㄮ㠩ਦ․偹瑨潮䕸攠⵭⁰楰⁩湳瑡汬‭⵱畩整⁠ਠ†⁴潲捨⁴潲捨癩獩潮⁠ਠ†‭⵩湤數⵵牬⁨瑴灳㨯⽤潷湬潡搮灹瑯牣栮潲术睨氯捵ㄲㄊਣ⁒敭慩湩湧⁤数猠⡴牡湳景牭敲猠灩湮敤⁦潲⁍潬浯⁣潭灡瑩扩汩瑹⤊☠⑐祴桯湅硥‭洠灩瀠楮獴慬氠ⴭ煵楥琠怊††≴牡湳景牭敲猾㴴⸴〮〬㰴⸴㘮〢⁠ਠ†⁡捣敬敲慴攠怊††敩湯灳⁠ਠ†⁲敱略獴猠怊††瑱摭⁠ਠ†⁰祡牲潷⁠ਠ†⁰楬汯眠怊††灹獴牡礠怊††瑥湳潲晬潷ਊ坲楴攭䡯獴•䑥灥湤敮捩敳⁩湳瑡汬敤⸢ਊ⌠胢钀‴⸠䍯灹⁷潲步爠獣物灴猠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀ਊ⑳捲楰瑄楲‽⁓灬楴ⵐ慴栠ⵐ慲敮琠⑍祉湶潣慴楯渮䵹䍯浭慮搮偡瑨੃潰礭䥴敭•⑳捲楰瑄楲屷潲步爮灹∠†∤坯牫敲䑩牜睯牫敲⹰礢†‭䙯牣攊䍯灹ⵉ瑥洠∤獣物灴䑩牜瑲慹彡灰⹰礢•⑗潲步牄楲屴牡祟慰瀮灹∠ⵆ潲捥੗物瑥ⵈ潳琠≷潲步爮灹‫⁴牡祟慰瀮灹⁣潰楥搠瑯․坯牫敲䑩牜∊ਣ⃢钀耠㔮⁐牥ⵤ潷湬潡搠䵯汭漠浯摥氠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀耊੗物瑥ⵈ潳琠≠湐牥ⵤ潷湬潡摩湧⁍潬浯ⴷ䈭䐭〹㈴⁭潤敬⁷敩杨瑳 縱㐠䝂⤮⸮∠ⵆ潲敧牯畮摃潬潲⁙敬汯眊坲楴攭䡯獴•⡐牥獳⁃瑲氫䌠瑯⁳歩瀠鐠睯牫敲⁷楬氠摯睮汯慤⁯渠晩牳琠瑡獫⸩∊ਤ摯睮汯慤卣物灴‽⁀∊晲潭⁨畧杩湧晡捥彨畢⁩浰潲琠獮慰獨潴彤潷湬潡搊灲楮琨❄潷湬潡摩湧⁍潬浯ⴷ䈭䐭〹㈴‮⸮✩ੳ湡灳桯瑟摯睮汯慤⠧慬汥湡椯䵯汭漭㝂ⵄⴰ㤲㐧⤊灲楮琨❍潤敬⁦楬敳⁣慣桥搮✩ਢ䀊⑤潷湬潡摓捲楰琠簠☠⑐祴桯湅硥‭ਊ⌠胢钀‶⸠呡獫⁓捨敤畬敲 慵瑯獴慲琠慴⁬潧楮⤠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀ਊ坲楴攭䡯獴•恮剥杩獴敲楮朠坩湤潷猠呡獫⁓捨敤畬敲⁪潢‧⑔慳歎慭攧⸮⸢‭䙯牥杲潵湤䍯汯爠奥汬潷ਊ⌠剥浯癥⁥硩獴楮朠瑡獫⁩映灲敳敮琊啮牥杩獴敲ⵓ捨敤畬敤呡獫‭呡獫乡浥․呡獫乡浥‭䍯湦楲洺⑦慬獥‭䕲牯牁捴楯渠卩汥湴汹䍯湴楮略ਊ⑬潧䙩汥‽•⑗潲步牄楲屬潧獜睯牫敲⹬潧∊ਤ慣瑩潮‽⁎敷ⵓ捨敤畬敤呡獫䅣瑩潮⁠ਠ†‭䕸散畴攠⑐祴桯湅硥⁠ਠ†‭䅲杵浥湴•⑗潲步牄楲屷潲步爮灹‭ⵣ潯牤楮慴潲․䍯潲摩湡瑯爠ⴭ睯牫敲⵮慭攠⑗潲步牎慭攢⁠ਠ†‭坯牫楮杄楲散瑯特․坯牫敲䑩爊ਤ瑲楧来爠‽⁎敷ⵓ捨敤畬敤呡獫呲楧来爠ⵁ瑌潧佮‭啳敲․敮瘺啓䕒乁䵅ਊ⑳整瑩湧猠㴠乥眭卣桥摵汥摔慳歓整瑩湧獓整⁠ਠ†‭剥獴慲瑃潵湴‹㤹⁠ਠ†‭剥獴慲瑉湴敲癡氠⡎敷ⵔ業敓灡渠ⵓ散潮摳″〩⁠ਠ†‭䕸散畴楯湔業敌業楴 孔業敓灡湝㨺婥牯⤠怊††ⵍ畬瑩灬敉湳瑡湣敳⁉杮潲敎敷ਊ⑰物湣楰慬‽⁎敷ⵓ捨敤畬敤呡獫偲楮捩灡氠怊††ⵕ獥牉搠⑥湶㩕卅剎䅍䔠怊††ⵌ潧潮呹灥⁉湴敲慣瑩癥⁠ਠ†‭創湌敶敬⁈楧桥獴ਊ剥杩獴敲ⵓ捨敤畬敤呡獫⁠ਠ†‭呡獫乡浥†⑔慳歎慭攠怊††ⵁ捴楯渠†․慣瑩潮⁠ਠ†‭呲楧来爠†⑴物杧敲⁠ਠ†‭卥瑴楮杳†⑳整瑩湧猠怊††ⵐ物湣楰慬․灲楮捩灡氠怊††ⵆ潲捥⁼⁏畴ⵎ畬氊ਣ⁓瑡牴⁷潲步爠業浥摩慴敬礊却慲琭卣桥摵汥摔慳欠ⵔ慳歎慭攠⑔慳歎慭攊ਣ⃢钀耠㜮⁔牡礠䅰瀠呡獫⁓捨敤畬敲 慵瑯獴慲琠慴⁬潧楮⤠胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀胢钀ਊ⑔牡祔慳歎慭攠㴠≃慰瑩潮坯牫敲呲慹∊੗物瑥ⵈ潳琠≒敧楳瑥物湧⁴牡礠慰瀠✤呲慹呡獫乡浥✮⸮∠ⵆ潲敧牯畮摃潬潲⁙敬汯眊੕湲敧楳瑥爭卣桥摵汥摔慳欠ⵔ慳歎慭攠⑔牡祔慳歎慭攠ⵃ潮晩牭㨤晡汳攠ⵅ牲潲䅣瑩潮⁓楬敮瑬祃潮瑩湵攊ਤ瑲慹䅣瑩潮‽⁎敷ⵓ捨敤畬敤呡獫䅣瑩潮⁠ਠ†‭䕸散畴攠⑐祴桯湅硥⁠ਠ†‭䅲杵浥湴•⑗潲步牄楲屴牡祟慰瀮灹‭ⵣ潯牤楮慴潲․䍯潲摩湡瑯爠ⴭ睯牫敲⵮慭攠⑗潲步牎慭攢⁠ਠ†‭坯牫楮杄楲散瑯特․坯牫敲䑩爊ਤ瑲慹卥瑴楮杳‽⁎敷ⵓ捨敤畬敤呡獫卥瑴楮杳卥琠怊††ⵒ敳瑡牴䍯畮琠㤹㤠怊††ⵒ敳瑡牴䥮瑥牶慬 乥眭呩浥印慮‭卥捯湤猠㄰⤠怊††ⵅ硥捵瑩潮呩浥䱩浩琠⡛呩浥印慮崺㩚敲漩⁠ਠ†‭䵵汴楰汥䥮獴慮捥猠䥧湯牥乥眊੒敧楳瑥爭卣桥摵汥摔慳欠怊††ⵔ慳歎慭攠․呲慹呡獫乡浥⁠ਠ†‭䅣瑩潮††⑴牡祁捴楯渠怊††ⵔ物杧敲†․瑲楧来爠怊††ⵓ整瑩湧猠․瑲慹卥瑴楮杳⁠ਠ†‭偲楮捩灡氠⑰物湣楰慬⁠ਠ†‭䙯牣攠簠併琭乵汬ਊ⌠却慲琠瑲慹⁡灰⁩浭敤楡瑥汹੓瑡牴ⵓ捨敤畬敤呡獫‭呡獫乡浥․呲慹呡獫乡浥ਊ坲楴攭䡯獴•∊坲楴攭䡯獴•㴽㴠卥瑵瀠捯浰汥瑥‽㴽∠ⵆ潲敧牯畮摃潬潲⁇牥敮੗物瑥ⵈ潳琠≗潲步爠✤坯牫敲乡浥✠楳⁲畮湩湧⸠呲慹⁩捯渠慰灥慲猠楮⁴桥⁳祳瑥洠瑲慹 扯瑴潭⁲楧桴⤮∊坲楴攭䡯獴•䍯潲摩湡瑯爠㨠⑃潯牤楮慴潲∊坲楴攭䡯獴•䱯朠晩汥††㨠⑬潧䙩汥∊坲楴攭䡯獴•∊坲楴攭䡯獴•啳敦畬⁣潭浡湤猺∠ⵆ潲敧牯畮摃潬潲⁃祡渊坲楴攭䡯獴•†却潰⁷潲步爠›⁓瑯瀭卣桥摵汥摔慳欠‭呡獫乡浥․呡獫乡浥∊坲楴攭䡯獴•†却慲琠睯牫敲›⁓瑡牴ⵓ捨敤畬敤呡獫‭呡獫乡浥․呡獫乡浥∊坲楴攭䡯獴•†坡瑣栠汯朠†›⁇整ⵃ潮瑥湴․汯杆楬攠ⵗ慩琢੗物瑥ⵈ潳琠∠⁔慳欠獴慴畳†㨠䝥琭卣桥摵汥摔慳欠†ⵔ慳歎慭攠⑔慳歎慭攠簠卥汥捴ⵏ扪散琠却慴攢
+# install_worker.ps1 — One-time setup on Windows (RTX 4090 / CUDA)
+#
+# Installs Miniforge3, creates conda env, downloads Molmo weights,
+# registers a Windows Task Scheduler job for autostart at login.
+#
+# Usage (run in PowerShell as Administrator):
+#   .\install_worker.ps1 -Coordinator http://10.0.0.1:5000 -WorkerName win-4090
+#
+# Or with a custom worker dir:
+#   .\install_worker.ps1 -Coordinator http://10.0.0.1:5000 -WorkerName win-4090 -WorkerDir C:\caption-worker
+
+param(
+    [Parameter(Mandatory=$true)]
+    [string]$Coordinator,
+
+    [string]$WorkerName = $env:COMPUTERNAME,
+
+    [string]$WorkerDir = "$env:USERPROFILE\caption-worker",
+
+    [string]$CondaEnv = "caption-worker",
+
+    [string]$TaskName = "CaptionWorker"
+)
+
+$ErrorActionPreference = "Stop"
+
+Write-Host "=== Distributed Caption Worker Setup (Windows) ===" -ForegroundColor Cyan
+Write-Host "Coordinator : $Coordinator"
+Write-Host "Worker name : $WorkerName"
+Write-Host "Worker dir  : $WorkerDir"
+Write-Host "=================================================="
+
+New-Item -ItemType Directory -Force -Path $WorkerDir | Out-Null
+New-Item -ItemType Directory -Force -Path "$WorkerDir\logs" | Out-Null
+
+# ── 1. Miniforge3 ─────────────────────────────────────────────────────────────
+
+$MiniforgePath = "$env:USERPROFILE\miniforge3"
+$CondaBin      = "$MiniforgePath\condabin\conda.bat"
+$PythonExe     = "$MiniforgePath\envs\$CondaEnv\python.exe"
+
+if (-Not (Test-Path $MiniforgePath)) {
+    Write-Host "`nInstalling Miniforge3..." -ForegroundColor Yellow
+    $installer = "$env:TEMP\Miniforge3-Windows-x86_64.exe"
+    Invoke-WebRequest `
+        -Uri "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Windows-x86_64.exe" `
+        -OutFile $installer
+    Start-Process -FilePath $installer `
+        -ArgumentList "/S /InstallationType=JustMe /RegisterPython=0 /D=$MiniforgePath" `
+        -Wait -NoNewWindow
+    Remove-Item $installer
+} else {
+    Write-Host "Miniforge3 already installed."
+}
+
+# ── 2. Conda environment ──────────────────────────────────────────────────────
+
+$envExists = & "$MiniforgePath\Scripts\conda.exe" env list 2>&1 | Select-String "^$CondaEnv "
+if (-Not $envExists) {
+    Write-Host "`nCreating conda env '$CondaEnv' (Python 3.11)..." -ForegroundColor Yellow
+    & "$MiniforgePath\Scripts\conda.exe" create -n $CondaEnv python=3.11 -y
+} else {
+    Write-Host "Conda env '$CondaEnv' already exists."
+}
+
+# ── 3. Python dependencies ────────────────────────────────────────────────────
+
+Write-Host "`nInstalling Python dependencies..." -ForegroundColor Yellow
+
+# PyTorch with CUDA 12.1 (RTX 4090 needs CUDA >= 11.8)
+& $PythonExe -m pip install --quiet `
+    torch torchvision `
+    --index-url https://download.pytorch.org/whl/cu121
+
+# Remaining deps (transformers pinned for Molmo compatibility)
+& $PythonExe -m pip install --quiet `
+    "transformers>=4.40.0,<4.46.0" `
+    accelerate `
+    einops `
+    requests `
+    tqdm `
+    pyarrow `
+    pillow `
+    pystray `
+    tensorflow
+
+Write-Host "Dependencies installed."
+
+# ── 4. Copy worker scripts ────────────────────────────────────────────────────
+
+$scriptDir = Split-Path -Parent $MyInvocation.MyCommand.Path
+Copy-Item "$scriptDir\worker.py"   "$WorkerDir\worker.py"   -Force
+Copy-Item "$scriptDir\tray_app.py" "$WorkerDir\tray_app.py" -Force
+Write-Host "worker.py + tray_app.py copied to $WorkerDir\"
+
+# ── 5. Pre-download Molmo model ───────────────────────────────────────────────
+
+Write-Host "`nPre-downloading Molmo-7B-D-0924 model weights (~14 GB)..." -ForegroundColor Yellow
+Write-Host "(Press Ctrl+C to skip — worker will download on first task.)"
+
+$downloadScript = @"
+from huggingface_hub import snapshot_download
+print('Downloading Molmo-7B-D-0924 ...')
+snapshot_download('allenai/Molmo-7B-D-0924')
+print('Model files cached.')
+"@
+$downloadScript | & $PythonExe -
+
+# ── 6. Task Scheduler (autostart at login) ────────────────────────────────────
+
+Write-Host "`nRegistering Windows Task Scheduler job '$TaskName'..." -ForegroundColor Yellow
+
+# Remove existing task if present
+Unregister-ScheduledTask -TaskName $TaskName -Confirm:$false -ErrorAction SilentlyContinue
+
+$logFile = "$WorkerDir\logs\worker.log"
+
+$action = New-ScheduledTaskAction `
+    -Execute $PythonExe `
+    -Argument "$WorkerDir\worker.py --coordinator $Coordinator --worker-name $WorkerName" `
+    -WorkingDirectory $WorkerDir
+
+$trigger  = New-ScheduledTaskTrigger -AtLogOn -User $env:USERNAME
+
+$settings = New-ScheduledTaskSettingsSet `
+    -RestartCount 999 `
+    -RestartInterval (New-TimeSpan -Seconds 30) `
+    -ExecutionTimeLimit ([TimeSpan]::Zero) `
+    -MultipleInstances IgnoreNew
+
+$principal = New-ScheduledTaskPrincipal `
+    -UserId $env:USERNAME `
+    -LogonType Interactive `
+    -RunLevel Highest
+
+Register-ScheduledTask `
+    -TaskName  $TaskName `
+    -Action    $action `
+    -Trigger   $trigger `
+    -Settings  $settings `
+    -Principal $principal `
+    -Force | Out-Null
+
+# Start worker immediately
+Start-ScheduledTask -TaskName $TaskName
+
+# ── 7. Tray App Task Scheduler (autostart at login) ──────────────────────────
+
+$TrayTaskName = "CaptionWorkerTray"
+
+Write-Host "Registering tray app '$TrayTaskName'..." -ForegroundColor Yellow
+
+Unregister-ScheduledTask -TaskName $TrayTaskName -Confirm:$false -ErrorAction SilentlyContinue
+
+$trayAction = New-ScheduledTaskAction `
+    -Execute $PythonExe `
+    -Argument "$WorkerDir\tray_app.py --coordinator $Coordinator --worker-name $WorkerName" `
+    -WorkingDirectory $WorkerDir
+
+$traySettings = New-ScheduledTaskSettingsSet `
+    -RestartCount 999 `
+    -RestartInterval (New-TimeSpan -Seconds 10) `
+    -ExecutionTimeLimit ([TimeSpan]::Zero) `
+    -MultipleInstances IgnoreNew
+
+Register-ScheduledTask `
+    -TaskName  $TrayTaskName `
+    -Action    $trayAction `
+    -Trigger   $trigger `
+    -Settings  $traySettings `
+    -Principal $principal `
+    -Force | Out-Null
+
+# Start tray app immediately
+Start-ScheduledTask -TaskName $TrayTaskName
+
+Write-Host ""
+Write-Host "=== Setup complete ===" -ForegroundColor Green
+Write-Host "Worker '$WorkerName' is running. Tray icon appears in the system tray (bottom right)."
+Write-Host "Coordinator : $Coordinator"
+Write-Host "Log file    : $logFile"
+Write-Host ""
+Write-Host "Useful commands:" -ForegroundColor Cyan
+Write-Host "  Stop worker  : Stop-ScheduledTask  -TaskName $TaskName"
+Write-Host "  Start worker : Start-ScheduledTask -TaskName $TaskName"
+Write-Host "  Watch log    : Get-Content $logFile -Wait"
+Write-Host "  Task status  : Get-ScheduledTask   -TaskName $TaskName | Select-Object State"
+
