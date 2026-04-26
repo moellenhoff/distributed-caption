@@ -85,14 +85,16 @@ def _caption_image(
     device: str,
     dtype: torch.dtype,
 ) -> str:
-    inputs = processor.process(images=[img], text=CAPTION_PROMPT)
-    inputs = {
-        k: (
-            (v.to(device, dtype=dtype) if v.is_floating_point() else v.to(device))
-            .unsqueeze(0)
-        ) if isinstance(v, torch.Tensor) else v
-        for k, v in inputs.items()
-    }
+    raw = processor.process(images=[img], text=CAPTION_PROMPT)
+    # Move tensors to device — iterate over keys to avoid BatchFeature quirks
+    inputs = {}
+    for key in raw:
+        val = raw[key]
+        if isinstance(val, torch.Tensor):
+            val = val.unsqueeze(0).to(device)
+            if val.is_floating_point():
+                val = val.to(dtype)
+        inputs[key] = val
     with torch.no_grad():
         output = model.generate_from_batch(
             inputs,

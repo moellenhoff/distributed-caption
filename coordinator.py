@@ -186,6 +186,18 @@ def _init_state(pq_dir: Path, out_dir: Path, state_file: Path) -> None:
         try:
             state = json.loads(state_file.read_text())
             log.info("Loaded state: %d shards", len(state["shards"]))
+            # Re-queue any in_progress shards — their started_at is stale after restart
+            reclaimed = 0
+            for shard_id, info in state["shards"].items():
+                if info.get("status") == "in_progress":
+                    state["shards"][shard_id]["status"] = "queued"
+                    state["shards"][shard_id]["worker"] = None
+                    reclaimed += 1
+            if reclaimed:
+                log.info("Re-queued %d in-progress shards from previous run", reclaimed)
+            # Clear stale current_shard from workers dict
+            for w in state.get("workers", {}).values():
+                w["current_shard"] = None
         except Exception as e:
             log.warning("Could not load state: %s — rebuilding", e)
 
